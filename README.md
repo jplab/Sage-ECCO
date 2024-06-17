@@ -2,7 +2,7 @@
 
 ## Above, you can select the worksheet using the following flowchart:
 
-![Flowchart](https://github.com/jplab/Sage-ECCO/blob/main/flowchart.png?raw=true)
+![Flowchart](https://github.com/jplab/Sage-ECCO/blob/main/flow_week1.png?raw=true)
 
 + Worksheet 1: [First steps in python (in a jupyter notebook)](https://raw.githubusercontent.com/jplab/Sage-ECCO/main/WS1-First%20steps%20in%20python.ipynb)
 + Worksheet 2: [More on Python (in a jupyter notebook)](https://raw.githubusercontent.com/jplab/Sage-ECCO/main/WS2-More%20on%20Python.ipynb)
